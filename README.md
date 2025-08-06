@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">A passionate frontend/full-stack developer from Germany</h3>
+<h1 >Hi 👋, I'm Emir</h1>
+<h3 >A passionate frontend/full-stack developer from Germany</h3>
 
 - 🌱 I’m currently learning **LangChain.js** for a personal project
 
 - 👨‍💻 All of my projects are available at <a href="https://ebayraktar.com" target="_blank" rel="noreferrer">www.ebayraktar.com </a>
 
 - 📫 How to reach me **emir@ebayraktar.com**
-
-- ⚡ Fun fact **I am a Civil Engineer**
 
 
 # 💻 Tech Stack:
